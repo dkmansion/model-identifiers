@@ -32,7 +32,7 @@
 	<key>iPad1,1</key>
 	<dict>
 		<key>Device</key>
-		<string>iPad 1G</string>
+		<string>iPad 1</string>
 	</dict>
 	<key>iPad2,1</key>
 	<dict>
@@ -144,21 +144,21 @@
 	<key>iPad4,4</key>
 	<dict>
 		<key>Device</key>
-		<string>iPad mini</string>
+		<string>iPad mini 2</string>
 		<key>Variant</key>
 		<string>Retina, WiFi</string>
 	</dict>
 	<key>iPad4,5</key>
 	<dict>
 		<key>Generation</key>
-		<string>iPad mini</string>
+		<string>iPad mini 2</string>
 		<key>Variant</key>
 		<string>Retina, Cellular</string>
 	</dict>
 	<key>iPhone1,1</key>
 	<dict>
 		<key>Device</key>
-		<string>iPhone 2G</string>
+		<string>iPhone 1G</string>
 	</dict>
 	<key>iPhone1,2</key>
 	<dict>
@@ -217,7 +217,7 @@
 		<key>Device</key>
 		<string>iPhone 5c</string>
 		<key>Variant</key>
-		<string>GSM</string>
+		<string>CDMA</string>
 	</dict>
 	<key>iPhone5,4</key>
 	<dict>
@@ -231,7 +231,7 @@
 		<key>Device</key>
 		<string>iPhone 5s</string>
 		<key>Variant</key>
-		<string>GSM</string>
+		<string>GSM+CDMA</string>
 	</dict>
 	<key>iPhone6,2</key>
 	<dict>
@@ -244,11 +244,29 @@
 	<dict>
 		<key>Device</key>
 		<string>iPhone 6 Plus</string>
+		<key>Variant</key>
+		<string>GSM+CDMA+Global</string>
 	</dict>
 	<key>iPhone7,2</key>
 	<dict>
 		<key>Device</key>
 		<string>iPhone 6</string>
+		<key>Variant</key>
+		<string>GSM+CDMA+Global</string>
+	</dict>
+	<key>iPhone8,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iPhone 6s</string>
+		<key>Variant</key>
+		<string>GSM+Global</string>
+	</dict>
+	<key>iPhone8,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iPhone 6s Plus</string>
+		<key>Variant</key>
+		<string>GSM+Global</string>
 	</dict>
 	<key>iPod1,1</key>
 	<dict>
